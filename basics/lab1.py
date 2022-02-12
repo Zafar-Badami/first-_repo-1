@@ -1,4 +1,3 @@
-
 import sys
 
 fullname = "John Smith"
@@ -9,7 +8,7 @@ y = 3.3
 age = 33
 
 #When joining arguments in a print function all sub-arguments must be string type
-print("Yourname is "+fullname+" and your age is "+str(age))
+# print("Yourname is "+fullname+" and your age is "+str(age))
 
 #print(float(x))
 #print("the type of "+str(y)+" is "+str(type(y)))

@@ -1,6 +1,5 @@
 names = {"jim","lucy","david"}
 
 for e in names:
-    print(e.upper())
-    
-    
+    # print(e.upper())
+    pass
